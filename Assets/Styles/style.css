@@ -79,7 +79,7 @@ h1,h2,h3,h4,h5,h6{
    .banner-text h2 span{
    color: #96746b;
    }
-   .banner-textp{
+   .banner-text p{
     color: #ffffff;
    }
    .banner-text a{
@@ -91,3 +91,28 @@ h1,h2,h3,h4,h5,h6{
     background-color: #312a26;
     margin-top: 1em;
     display: inline-block;}
+
+    /*Are Area*/
+    .ads{
+        width: 85%;
+        margin: 4em auto;
+        overflow: auto;
+    }
+    .ads-items{
+        width: 48.5%;
+        float: left;
+        height: 350px;
+        background-size: cover;
+        background-position: center;
+        position: relative;
+        margin-bottom: 3%;
+    }
+    .ads-item1{
+        margin-right:3%;
+        background-image: url('../Images/ads-img1.jpg');
+
+    }
+    .ads-item2{
+        margin-right:3%;
+        background-image: url('../Images/ads-img2.jpg');
+    }
