@@ -365,7 +365,7 @@ form input[type="submit"] {
 
 /* (9) Footer Area */
 .footer{
-    background-image: url('../Images/footer-img.jpg');
+    background-image: url('../images/footer-img.jpg');
     background-size: cover;
     background-position: center;
     padding-top: 2em;
